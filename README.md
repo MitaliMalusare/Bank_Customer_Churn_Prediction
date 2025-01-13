@@ -86,11 +86,12 @@ This repository contains a Bank Churn Prediction project implemented using **Zen
 - On **Windows**, run:
   ```bash
   .\venv\Scripts\activate
-
+  ```
 
 - On **MacOS**, run:
   ```bash
- source venv/bin/activate
+  source venv/bin/activate
+  ```
 
 3. Install dependencies:
    ```bash
