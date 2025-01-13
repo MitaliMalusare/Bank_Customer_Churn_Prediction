@@ -62,7 +62,7 @@ Improving **customer engagement** for customers with low activity, especially th
 ### **Step 1: Clone or Download the Repository**
 1. Clone the repository using:
    ```bash
-   git clone [https://github.com/yourusername/bank-churn-prediction.git]
+   git clone (https://github.com/MitaliMalusare/Bank_Customer_Churn_Prediction.git)
    ```
 ---
 
