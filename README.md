@@ -150,7 +150,7 @@ python sample_predict.py
 - The trained model and its artifacts are stored in the configured ZenML artifact store.
 
 Model Pipeline Running: 
-![image](C:\Users\admin\OneDrive - Vidyalankar Polytechnic\Desktop\ML\ML PROJECTS\predicition\IMAGES\Capture.JPG)
+![image](https://github.com/MitaliMalusare/Bank_Customer_Churn_Prediction/blob/main/IMAGES/Capture.JPG)
 ![image](C:\Users\admin\OneDrive - Vidyalankar Polytechnic\Desktop\ML\ML PROJECTS\predicition\IMAGES\Capture1.JPG)
 
 
