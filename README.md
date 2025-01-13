@@ -71,40 +71,26 @@ This repository contains a Bank Churn Prediction project implemented using **Zen
 1. Clone the repository:
    ```bash
   git clone (https://github.com/MitaliMalusare/Bank_Customer_Churn_Prediction.git)
-   ```
+   
 2. Create a Virtual Environment:
    Run the following command in your project directory:
    ```bash
    python -m venv venv
-   ```
+   
    Activate the Virtual Environment:
 
 - On **Windows**, run:
   ```bash
   .\venv\Scripts\activate
-```
+
 - On **MacOS**, run:
   ```bash
  source venv/bin/activate
-```
 
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
-
-3. Initialize ZenML:
-   ```bash  
-zenml integration install mlflow -y 
-
-   ```
-
-4. Start the MLflow server (optional):
-   ```bash
-   mlflow ui
-   ```
-   Access the MLflow tracking UI at `http://localhost:5000`.
-
+   
 ---
 
 ## How to Run the Project
