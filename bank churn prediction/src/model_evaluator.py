@@ -54,8 +54,7 @@ class ClassificationModelEvaluationStrategy(ModelEvaluationStrategy):
         f1 = f1_score(y_test, y_pred)
 
         metrics = {
-            "Recall": 0.955466789678,
-            "Precision":0.98567567898,
+            "Accuracy":accuracy
         }
 
         logging.info(f"Model Evaluation Metrics: {metrics}")
