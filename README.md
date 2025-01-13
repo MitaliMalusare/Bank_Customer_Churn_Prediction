@@ -71,17 +71,20 @@ This repository contains a Bank Churn Prediction project implemented using **Zen
 1. Clone the repository:
    ```bash
   git clone (https://github.com/MitaliMalusare/Bank_Customer_Churn_Prediction.git)
-   
+
+
 2. Create a Virtual Environment:
    Run the following command in your project directory:
    ```bash
    python -m venv venv
+
    
    Activate the Virtual Environment:
 
 - On **Windows**, run:
   ```bash
   .\venv\Scripts\activate
+
 
 - On **MacOS**, run:
   ```bash
